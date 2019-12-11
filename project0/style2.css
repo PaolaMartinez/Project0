@@ -1,0 +1,25 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333; }
+
+ul {
+  margin: 0;
+  padding: 1.0; }
+  ul li {
+    list-style: square;
+    color: black; }
+
+a {
+  display: block;
+  padding: 6px;
+  text-decoration: none; }
+
+.title, .second_title {
+  color: red;
+  padding-top: 30px;
+  text-align: center; }
+
+.second_title {
+  color: green; }
+
+/*# sourceMappingURL=style2.css.map */
